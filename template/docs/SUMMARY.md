@@ -1,23 +1,17 @@
 # Table of contents
 
-* [🖌️ Getting started](README.md)
+* [Introduccion](README.md)
 
-## INTRODUCTION
+## Historia
 
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Orígenes de Raspbian ](historia/origenes-de-raspbian.md)
 
-## identity
+## Detalles del SO
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Requisitos para Ejecutar Raspbian](detalles-del-so/requisitos-para-ejecutar-raspbian.md)
+* [Cuadro comparativo](detalles-del-so/cuadro-comparativo.md)
 
-## Components
+## Concluciones
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [Grupo](concluciones/grupo.md)
+* [Integrantes del grupo](concluciones/integrantes-del-grupo.md)
