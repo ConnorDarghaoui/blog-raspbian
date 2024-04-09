@@ -9,9 +9,11 @@
 ## Detalles del SO
 
 * [Requisitos para Ejecutar Raspbian](detalles-del-so/requisitos-para-ejecutar-raspbian.md)
+* [Page](detalles-del-so/page.md)
 * [Cuadro comparativo](detalles-del-so/cuadro-comparativo.md)
 
 ## Concluciones
 
-* [Grupo](concluciones/grupo.md)
-* [Integrantes del grupo](concluciones/integrantes-del-grupo.md)
+* [Conclusiones](concluciones/conclusiones.md)
+* [Referencias](concluciones/referencias.md)
+* [🇵🇦 Integrantes del grupo](concluciones/integrantes-del-grupo.md)
