@@ -8,6 +8,3 @@ Raspbian es un sistema operativo perteneciente a la Raspberry PI Foundation, est
 
 En palabras de su desarrollador "es un sistema operativo gratuito basado en Debian optimizado para el hardware Raspberry Pi. Un sistema operativo es el conjunto de programas y utilidades básicos que hacen que tu Raspberry Pi funcione. Sin embargo, Raspbian ofrece más que un sistema operativo puro: viene con más de 35.000 paquetes, software precompilado incluido en un formato agradable para una fácil instalación en su Raspberry Pi." (_FrontPage - Raspbian_)
 
-{% hint style="info" %}
-Use this template to introduce the concept of your design system. Outlining basic principles and ways of working to get every team on the same page.
-{% endhint %}
