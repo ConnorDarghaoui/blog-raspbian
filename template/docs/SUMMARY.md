@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduccion](README.md)
+* [Raspbian: Una Puerta de Entrada al Mundo de la Electrónica y Computación](README.md)
 
 ## Historia
 
