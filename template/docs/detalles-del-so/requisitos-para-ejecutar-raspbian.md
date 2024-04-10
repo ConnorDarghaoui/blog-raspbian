@@ -17,11 +17,11 @@ Para obtener más detalles sobre cómo configurar tu Raspberry Pi con Raspbian y
 
 
 
-#### Experimenta Raspbian en tu PC: Requisitos Mínimos
+#### Requisitos Mínimos para un PC convencional&#x20;
 
-Aunque Raspbian está optimizado para la Raspberry Pi, es posible explorar sus características en un PC mediante el uso de emuladores o máquinas virtuales. Esta flexibilidad permite a los entusiastas familiarizarse con el entorno de Raspbian sin necesidad de hardware dedicado.&#x20;
+Aunque Raspbian es para las pacas de Raspberry Pi, es posible ejecutar este sistema operativo en un PC mediante máquinas virtuales. Esta flexibilidad permite explorar y jugar con el entorno de Raspbian sin necesidad de tener la placa de la Raspberry&#x20;
 
-A continuación, se presentan los requisitos mínimos para correr Raspbian en un PC a través de una máquina virtual o un emulador:
+A continuación, se presentan los requisitos mínimos para correr Raspbian en un PC
 
 | Requerimiento                  | Especificaciones Mínimas                                                                            |
 | ------------------------------ | --------------------------------------------------------------------------------------------------- |
