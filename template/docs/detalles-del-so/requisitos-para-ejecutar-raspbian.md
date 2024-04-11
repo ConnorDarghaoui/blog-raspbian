@@ -33,7 +33,5 @@ A continuación, se presentan los requisitos mínimos para correr Raspbian en un
 | **Gráficos**                   | Tarjeta gráfica con soporte para renderizado 3D (para mejorar la experiencia de emulación)          |
 | **Periféricos**                | Teclado y ratón; acceso a puertos USB si se requiere conectar dispositivos específicos              |
 
-##
-
-<figure><img src="../.gitbook/assets/recommended-software.png" alt=""><figcaption><p>Figura No. 1. Interfaz de Usuario de Raspbian en Raspberry Pi Fuente: Raspberry Pi Foundation (2024), https://www.raspberrypi.com/documentation/computers/getting-started.html</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/recommended-software.png" alt=""><figcaption><p><strong>Figura No. 1.</strong> Interfaz de Usuario de Raspbian en Raspberry Pi. <strong>Fuente:</strong> Raspberry Pi Foundation (2024), https://www.raspberrypi.com/documentation/computers/getting-started.html</p></figcaption></figure>
 

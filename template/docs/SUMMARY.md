@@ -10,6 +10,7 @@
 
 * [Requisitos para Ejecutar Raspbian](detalles-del-so/requisitos-para-ejecutar-raspbian.md)
 * [Cuadro comparativo](detalles-del-so/cuadro-comparativo.md)
+* [Videos recomendados](detalles-del-so/videos-recomendados.md)
 
 ## Concluciones
 
