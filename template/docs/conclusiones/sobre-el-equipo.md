@@ -1,6 +1,6 @@
 # 🇵🇦 Sobre el equipo
 
-Docente: Prof. Rubiel Pérez Delgado.&#x20;
+Docente: Prof. Rubiel Pérez Delgado
 
 Universidad Tecnológica de Panamá, Facultad de Ingeniería de Sistemas Computacionales, Licenciatura en Ingeniería de Sistemas y Computación
 
