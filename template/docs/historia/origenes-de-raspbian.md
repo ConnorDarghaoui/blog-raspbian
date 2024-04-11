@@ -16,7 +16,7 @@ Raspbian rápidamente se popularizó entre la comunidad debido a su facilidad de
 \
 
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p><strong>Figura No. 2.</strong>  Sistema operativo para escritorio. <strong>Fuente:</strong> Piltch (2020), <a href="https://www.tomshardware.com/news/raspberry-pi-os-no-longer-raspbian">https://www.raspberrypi.com/documentation/computers/getting-started.html</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p><strong>Figura No. 1.</strong>  Sistema operativo para escritorio. <strong>Fuente:</strong> Piltch (2020), <a href="https://www.tomshardware.com/news/raspberry-pi-os-no-longer-raspbian">https://www.raspberrypi.com/documentation/computers/getting-started.html</a></p></figcaption></figure>
 
 Raspbian con el paso del tiempo ha tenido un impacto significativo en el panorama de la informática y en áreas como la educación, creatividad y empoderamiento digital.
 
