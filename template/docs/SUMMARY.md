@@ -12,8 +12,8 @@
 * [Cuadro comparativo](detalles-del-so/cuadro-comparativo.md)
 * [Videos recomendados](detalles-del-so/videos-recomendados.md)
 
-## Concluciones
+## Conclusiones
 
-* [Conclusiones](concluciones/conclusiones.md)
-* [Referencias](concluciones/referencias.md)
-* [🇵🇦 Integrantes del grupo](concluciones/integrantes-del-grupo.md)
+* [Conclusiones](conclusiones/conclusiones.md)
+* [Referencias](conclusiones/referencias.md)
+* [🇵🇦 Integrantes del grupo](conclusiones/integrantes-del-grupo.md)

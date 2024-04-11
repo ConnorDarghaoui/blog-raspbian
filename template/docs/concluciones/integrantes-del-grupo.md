@@ -1,2 +1,0 @@
-# 🇵🇦 Integrantes del grupo
-
