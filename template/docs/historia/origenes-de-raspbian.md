@@ -12,7 +12,11 @@ La motivación de crear Raspbian se remonta a la preocupación de la Raspberry P
 
 El lanzamiento inicial de Raspbian se dio en junio de 2012 el cual coincidió con el lanzamiento de la Raspberry Pi original. Desde entonces, ha evolucionado en paralelo a la Raspberry Pi, adaptándose a las nuevas versiones del hardware y a las necesidades de la comunidad de usuarios.
 
-Raspbian rápidamente se popularizó entre la comunidad debido a su facilidad de uso, estabilidad y amplia gama de software disponible. Se convirtió en el sistema operativo preinstalado en la mayoría de las Raspberry Pi y en la opción preferida para todo el publico amante de la informática.
+Raspbian rápidamente se popularizó entre la comunidad debido a su facilidad de uso, estabilidad y amplia gama de software disponible. Se convirtió en el sistema operativo preinstalado en la mayoría de las Raspberry Pi y en la opción preferida para todo el publico amante de la informática.\
+\
+
+
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p><strong>Figura No. 2.</strong>  Sistema operativo para escritorio. <strong>Fuente:</strong> Piltch (2020), <a href="https://www.tomshardware.com/news/raspberry-pi-os-no-longer-raspbian">https://www.raspberrypi.com/documentation/computers/getting-started.html</a></p></figcaption></figure>
 
 Raspbian con el paso del tiempo ha tenido un impacto significativo en el panorama de la informática y en áreas como la educación, creatividad y empoderamiento digital.
 
