@@ -1,8 +1,12 @@
----
-description: 'Grupo #8, conformado por:'
----
+# 🇵🇦 Sobre el equipo
 
-# 🇵🇦 Integrantes del grupo
+Docente: Prof. Rubiel Pérez Delgado.&#x20;
+
+Universidad Tecnológica de Panamá, Facultad de Ingeniería de Sistemas Computacionales, Licenciatura en Ingeniería de Sistemas y Computación
+
+Grupo: 1IL-141
+
+## Miembros:
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="194"><figcaption><p><strong>Antony Fajardo</strong></p></figcaption></figure>
 

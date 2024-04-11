@@ -16,4 +16,4 @@
 
 * [Conclusiones](conclusiones/conclusiones.md)
 * [Referencias](conclusiones/referencias.md)
-* [🇵🇦 Integrantes del grupo](conclusiones/integrantes-del-grupo.md)
+* [🇵🇦 Sobre el equipo](conclusiones/sobre-el-equipo.md)
